@@ -1,0 +1,65 @@
+.line1  { background: #F0F8FF; color: #000000; }
+.line2  { background: #F0FFFF; color: #1B1B1B; }
+.line3  { background: #B0E0E6; color: #343434; }
+.line4  { background: #89CFF0; color: #404040; }
+.line5  { background: #E0FFFF; color: #484848; }
+.line6  { background: #AFEEEE; color: #4B4B4B; } 
+.line7  { background: #C4D8E2; color: #505050; }
+.line8  { background: #99FFFF; color: #696969; }
+.line9  { background: #87CEFA; color: #757575; } 
+.line10 { background: #87CEEB; color: #808080; }
+.line11 { background: #73C2FB; color: #808080; }
+.line12 { background: #00CCFF; color: #8B8B8B; } 
+.line13 { background: #00BFFF; color: #949494; }
+.line14 { background: #6495ED; color: #999999; }
+.line15 { background: #1E90FF; color: #A6A6A6; } 
+.line16 { background: #4682B4; color: #AAAAAA; } 
+.line17 { background: #7B68EE; color: #ADADAD; }
+.line18 { background: #4169E1; color: #C0C0C0; }
+.line19 { background: #2D68C4; color: #D3D3D3; }
+.line20 { background: #0047AB; color: #DCDCDC; }
+.line21 { background: #0F52BA; color: #E5E4E2; }
+.line22 { background: #2A52BE; color: #F5F5F5; }
+.line23 { background: #4B0082; color: #F5F5F5; }
+.line24 { background: #1C39BB; color: #FFFAFA; }
+.line25 { background: #1434A4; color: #FFFFF0; }
+.line26 { background: #3F00FF; color: #FFF5EE; }
+.line27 { background: #0F4D92; color: #F8F8FF; }
+.line28 { background: #000080; color: #FFFAF0; } 
+.line29 { background: #003153; color: #FAF0E6; }
+.line30 { background: #23297A; color: #FDF5E6; }
+.line31 { background: #191970; color: #F5FFFA; } 
+.line32 { background: #002147; color: #FFFFFF; } 
+
+p {
+font-size: 20px;
+margin: 8px 0;
+text-align:center;
+ }
+body {
+    font-family: century-gothic, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f9f4;
+    color: #333;
+}
+header {
+    background-color:#191970;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+section {
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+}
